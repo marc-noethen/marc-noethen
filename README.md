@@ -32,9 +32,9 @@ Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode komb
 
 | Institution | Inhalt | Status |
 |---|---|---|
-| [Cybersteps](https://cybersteps.de) | Cyber Security Analyst & Consultant — Modul 3 | 🔄 Aktiv seit 04/2025 |
-| IHK | Fachinformatiker Anwendungsentwicklung | ✅ 05/2025 |
-| educx GmbH | Python — 180 Std. (OOP, Pandas, NumPy, EDA, Scraping) | ✅ 04/2025 |
+| [Cybersteps](https://cybersteps.de) | Cyber Security Analyst & Consultant — Modul 3 | 🔄 Aktiv seit 06/2025 & 04/2026 |
+| IHK | Fachinformatiker Anwendungsentwicklung | ✅ 01 2024 - 05/2025 |
+| educx GmbH | Python — 180 Std. (OOP, Pandas, NumPy, EDA, Scraping) | ✅ 03 - 05/2025 |
 | Udemy / Dr. Angela Yu | The Complete 2024 Web Development Bootcamp — 61.5 Std. | ✅ 10/2024 |
 | Udemy | SQL Grundlagen Bootcamp — 9 Std. | ✅ 05/2024 |
 | SoloLearn | PHP Course | ✅ 07/2022 |
