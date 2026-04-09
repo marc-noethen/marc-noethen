@@ -22,7 +22,7 @@
 
 Ausgebildeter **Fachinformatiker Anwendungsentwicklung (IHK)**, jetzt in der Vollzeit-Spezialisierung zum **Cyber Security Analyst & Consultant** bei [Cybersteps](https://cybersteps.de) — aktuell Modul 3.
 
-Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode kombiniert mit KI-generierten Audio-Zusammenfassungen, und einem eigenen "Brain-Extraction"-Prozess der Theorie in anwendbares Wissen überführt. Parallel dazu: 30+ Fachbücher, Full Stack Open, und eigene Python-Tools.
+Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode kombiniert mit KI-generierten Audio-Zusammenfassungen, und einem eigenen "Brain-Extraction"-Prozess der Theorie in anwendbares Wissen überführt. Parallel dazu: 30+ Fachbücher, Python Projekte, Full Stack Open, und eigene Python-Tools.
 
 > *Nicht weil ich fertig bin. Sondern damit man sieht wie ich werde.*
 
