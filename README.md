@@ -24,7 +24,7 @@ Ausgebildeter **Fachinformatiker Anwendungsentwicklung (IHK)**, jetzt in der Vol
 
 Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode kombiniert mit KI-generierten Audio-Zusammenfassungen, und einem eigenen "Brain-Extraction"-Prozess der Theorie in anwendbares Wissen überführt. Parallel dazu: 30+ Fachbücher, Python Projekte, Full Stack Open, und eigene Python-Tools.
 
-> *Nicht weil ich fertig bin. Sondern damit man sieht wie ich werde.*
+> "Es gibt nur zwei Arten von Unternehmen: Diejenigen, die gehackt wurden, und diejenigen, die noch nicht wissen, dass sie gehackt wurden." – John Chambers
 
 ---
 
